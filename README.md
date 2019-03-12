@@ -1,2 +1,0 @@
-# springCloudHello
-this's config
