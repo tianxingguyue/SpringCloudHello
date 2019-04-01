@@ -15,7 +15,7 @@ spring:
 
 
 
-
+bb: acbb
 management:
   security:
     enabled: true
