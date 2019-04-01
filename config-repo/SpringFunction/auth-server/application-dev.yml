@@ -44,7 +44,7 @@ bee:
     host: localhost             # 根据环境更改
     port: 3306                  # 根据环境更改
     username: root              # 根据环境更改
-    password: lzl123
+    password: root
 
 eureka:
   instance:
